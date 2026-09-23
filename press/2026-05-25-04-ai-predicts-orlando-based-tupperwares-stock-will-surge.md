@@ -1,7 +1,9 @@
 ---
 title: AI predicts Orlando-based Tupperware's stock will surge
 url: https://www.bizjournals.com/orlando/news/2023/09/18/ai-prediction-tupperware-stock-surge-florida.html
-date: '2026-05-25'
+published: '2023-09-18'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Tupperware Brands" press release artificial intelligence'
 position: 4
 source: serpapi-google

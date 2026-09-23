@@ -1,7 +1,9 @@
 ---
 title: Tupperware Brands Shares Jump as Third Quarter Sales Return ...
 url: https://www.instagram.com/p/CG5tmW1DKc7/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Tupperware Brands" press release artificial intelligence'
 position: 2
 source: serpapi-google

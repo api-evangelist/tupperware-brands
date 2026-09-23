@@ -1,7 +1,9 @@
 ---
 title: Tupperware Brands 2026 Company Profile
 url: https://pitchbook.com/profiles/company/41318-56
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Tupperware Brands" press release artificial intelligence'
 position: 3
 source: serpapi-google
