@@ -64,53 +64,79 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Tupperware Brands Corporation was an American multinational consumer goods company that
-manufactured and marketed premium kitchen storage, preparation, and serving products under
-the Tupperware brand, as well as related cookware, knives, and home product lines.
-The company distributed products to approximately 70 countries through independent sales
-force members. Tupperware Brands filed for Chapter 11 bankruptcy in September 2024 and
-underwent liquidation in 2025. The Tupperware brand name was subsequently acquired by
-Party Products LLC.
+Tupperware Brands Corporation was an American multinational consumer goods company that manufactured and marketed premium kitchen storage, preparation, and serving products under the Tupperware brand, as well as related home product lines. The company distributed products to approximately 70 countries through independent sales force members. Tupperware Brands filed for Chapter 11 bankruptcy in September 2024 and underwent liquidation in 2025. The Tupperware brand name was subsequently acquired by Party Products LLC. No public developer API program was available during the company's operation.
 
-**Website:** https://www.tupperwarebrands.com
+**Areas:** Consumer Goods · Direct Sales · Kitchen Products · Retail · Storage Products · Fortune 1000
 
-**APIs.yml:** https://raw.githubusercontent.com/api-evangelist/tupperware-brands/refs/heads/main/apis.yml
+## Tupperware Brands on APIs.io
 
-## Scope
+Everything profiled for Tupperware Brands is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/tupperware-brands/](https://apis.io/providers/tupperware-brands/)** — or go straight to one of the APIs or properties below.
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+### Published properties
 
-## Tags
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- Consumer Goods
-- Direct Sales
-- Kitchen Products
-- Retail
-- Storage Products
+#### Security (1)
 
-## APIs
+Authentication, trust centre, and vulnerability disclosure.
 
-No public developer APIs were available for Tupperware Brands. The company operated a
-direct sales model through independent sales force members and did not expose public REST APIs
-or developer programs during its operation.
+- [Tupperware Brands Domain Security](https://apis.io/security/tupperware-brands/tupperware-brands-domain-security/)
 
-## Notes
+## Where to find this API
 
-- Tupperware Brands was founded in 1996 (originally Tupperware Corporation, founded 1946)
-- Headquartered in Orlando, Florida
-- Filed Chapter 11 bankruptcy September 18, 2024
-- Liquidation approved May 9, 2025
-- The Tupperware brand name was acquired by Party Products LLC in November 2024
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-## Timestamps
+- [Website](https://www.tupperwarebrands.com)
 
-- **Created:** 2026-03-24
-- **Modified:** 2026-05-03
+## API Evangelist rating
 
-## Maintainers
+**Kin Score 4.2** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**FN:** Kin Lane
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
 
-**Email:** kin@apievangelist.com
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/tupperware-brands/](https://apis.io/providers/tupperware-brands/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Tupperware Brands: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/tupperware-brands/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
